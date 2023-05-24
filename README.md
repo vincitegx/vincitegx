@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @vincitegx
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning docker and kubernates
-- 💞️ I’m looking to collaborate on fintech projects 
+- 👋 Hi, I’m David Tega
+- 👀 I’m a Software engineering
+- 🌱 I’m write Java and Angular Applications
 - 📫 How to reach me: email- @davidogbodu3056@gmail.com, phone no- +2348021493815 ...
 
 <!---
